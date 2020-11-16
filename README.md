@@ -40,6 +40,5 @@ How to use
 10. Click Finish.
 
 Done. 🙂
-*Compatible with Windows 7/8.1/10
 
 *Compatible with Windows 7/8.1/10
