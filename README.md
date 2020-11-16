@@ -19,25 +19,27 @@ Windows key + F3 : Volume_Up
 
 How to use
 
-1. Download Media KeyMap.zip
+1. Download Media KeyMap
 
 2. Unzip it
 
 3. Move it to C:\Program Files folder and run
 
-4. Right click on program and select Create shortcut
+4. Press the Windows key + R to open the run dialog box.
 
-5. Press the Windows key + R to open the run dialog box.
+5. Type shell:startup in the run dialog box and press Enter on your keyboard.
 
-6. Type shell:startup in the run dialog box and press Enter on your keyboard.
+6. Right click in the startup folder and click New.
 
-7. Right click in the startup folder and click New.
+7. Click Shortcut.
 
-8. Click Shortcut.
+8. Browse to locate the Media KeyMap.exe program on your computer.
 
-9. Click Browse to locate the program on your computer.
+9. Click Next.
 
-10. Select Media KeyMap Click Next.
+10. Click Finish.
 
+Done. 🙂
+*Compatible with Windows 7/8.1/10
 
 *Compatible with Windows 7/8.1/10
